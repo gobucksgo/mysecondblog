@@ -1,0 +1,10 @@
+---
+title: My third post
+author: K. Jang
+date: '2021-04-11'
+slug: my-third-post
+categories:
+  - R
+tags:
+  - R Markdown
+---
