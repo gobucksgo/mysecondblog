@@ -1,0 +1,12 @@
+---
+title: My Second Post
+author: K. Jang
+date: '2021-04-11'
+slug: my-second-post
+categories:
+  - R
+tags:
+  - R Markdown
+---
+
+This is the second post.
